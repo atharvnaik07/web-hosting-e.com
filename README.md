@@ -1,6 +1,3 @@
-Here’s a **README.md** file tailored for your repository, `web-hosting-e.com`, focusing on hosting a single frontend page using HTML, CSS, and JavaScript on GitHub Pages.
-
----
 
 # Web Hosting Guide: Hosting a Single Frontend Page on GitHub Pages
 
